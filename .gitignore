@@ -1,0 +1,30 @@
+# Ejecutables
+*.out
+*.exe
+*.app
+
+# Archivos objeto
+*.o
+*.obj
+
+# Archivos de depuración
+*.pdb
+*.dSYM
+
+# Archivos generados por compilación
+cpu
+io
+mem
+threads
+
+# Archivos temporales
+*.log
+*.tmp
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Carpetas de build
+build/
+bin/
