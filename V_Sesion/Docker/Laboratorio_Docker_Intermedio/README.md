@@ -1,6 +1,6 @@
 # Taller – Docker (Nivel Intermedio)
 
-Este laboratorio profundiza en el uso de **contenedores Docker** mediante el estudio de persistencia de datos, comunicación entre contenedores y orquestación de aplicaciones multi-servicio.
+Este laboratorio profundiza en el uso de **contenedores Docker** mediante el estudio de la persistencia de datos, la comunicación entre contenedores y la orquestación de aplicaciones multiservicio.
 
 A lo largo del taller se construirá progresivamente una arquitectura basada en contenedores con **PostgreSQL y Drupal**, lo que permitirá comprender cómo Docker facilita el despliegue reproducible de aplicaciones.
 
@@ -108,10 +108,10 @@ Durante el desarrollo del laboratorio se solicitarán:
 
 Este directorio incluye:
 
-* documentación del laboratorio
-* archivo `docker-compose.yml`
-* referencia de comandos Docker
-* descripción de la arquitectura utilizada
+* README.md → Guía del laboratorio
+* Taller 5-Docker Intermedio.pdf → Documento con la guía del laboratorio a realizar
+* arquitectura.md → Explicación de la arquitectura usada
+* docker_cheatsheet.md → Comandos Docker útiles
 
 # Casos de Uso de Docker
 
