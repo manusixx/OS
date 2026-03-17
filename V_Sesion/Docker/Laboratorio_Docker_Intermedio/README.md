@@ -110,8 +110,8 @@ Este directorio incluye:
 
 * README.md → Guía del laboratorio
 * Taller 5-Docker Intermedio.pdf → Documento con la guía del laboratorio a realizar
-* arquitectura.md → Explicación de la arquitectura usada
-* docker_cheatsheet.md → Comandos Docker útiles
+* [Arquitectura del laboratorio](arquitectura.md)→ Explicación de la arquitectura usada
+* [Docker Cheat Sheet](docker_cheatsheet.md) → Comandos Docker útiles
 
 # Casos de Uso de Docker
 
